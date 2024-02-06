@@ -1,4 +1,4 @@
-# final_puzzle
+# Grid_Puzzle
 
 A new Flutter project.
 
